@@ -1,0 +1,11 @@
+### KYC Using Your GitHub Account
+Please make sure your GitHub account meets the following requirements (all are required):
+-[] The issue title must be: Request GitHub KYc - Your US.KG Panel registered userame. This ensures our automated script can detect your registered username. (For example, your title should be: **Request GitHub KYC-example**)
+-[]This is not a new GitHub account; it has existing repositories and stars.
+-[]This is my first US.KG NlC Panel account.
+-[]promise not to use the domain name for criminal or abusive purposes.
+-[]Please star this repository, This will let more people know about this project!
+**Your Account Details (US.KG NIC Panel):**
+Please fill out the following information; otherwise, your request will not be processed:
+-Username: wudishijie.com
+-Reason for Registering the .US.KG Domain Name (Why):building a blog
